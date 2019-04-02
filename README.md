@@ -3,7 +3,7 @@ ______
 Line 13 can just be copied and pasted into your terminal, and switch out the
 argument $1 with the group. 
 
-```
+```bash
 #!/bin/sh
 
 if [ -z = 1 ]; then 
